@@ -1,5 +1,5 @@
 header{
-    background: #c4a6d8;
+    background: #5e5e5e;
 }
 
 nav li{
@@ -8,4 +8,29 @@ nav li{
     font-weight: solid;
     font-size: 30px;
     padding: 140px;
+}
+
+h1{
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.imagemprincipal{
+    width: 50%;
+    padding-left: 25%;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    background: #b7b7b8;
 }

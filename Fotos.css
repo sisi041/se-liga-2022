@@ -1,0 +1,21 @@
+header{
+    background: #5e5e5e;
+}
+
+nav li{
+    display: inline;
+    text-transform: uppercase;
+    font-weight: solid;
+    font-size: 30px;
+    padding: 140px;
+}
+
+h2{
+   text-align: center;
+}
+
+.fotos{
+    width: 50%;
+    border-radius: 20%;
+    border: 10px;
+}
